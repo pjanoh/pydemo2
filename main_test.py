@@ -1,2 +1,2 @@
 def test():
-  assert max(5, 6) == 5
+  assert max(5, 6) == 6
